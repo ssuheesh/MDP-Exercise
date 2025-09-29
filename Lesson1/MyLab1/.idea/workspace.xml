@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ad851cf-c3e9-47dc-b4b3-159772698aee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/arraylist/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/function/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lambda_exp/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/src/main/kotlin/arrays/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyLearning1/src/main/kotlin/when_exp/Main.kt" beforeDir="false" />
-    </list>
+    <list default="true" id="1ad851cf-c3e9-47dc-b4b3-159772698aee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759171661190</updated>
-      <workItem from="1759171662267" duration="4190000" />
+      <workItem from="1759171662267" duration="4231000" />
     </task>
     <servers />
   </component>
